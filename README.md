@@ -25,12 +25,12 @@ ensuring robust code quality.
 - For the following analyses, parsed information using web scraping to generate the data set and 
 then selecting the useful columns and filtering and cleaning them into the target and usable 
 data using the R library Tidyverse.
-## Tennis Rankings Analysis:
+#### Tennis Rankings Analysis:
 - Used R to measure the relation between Tennis Player Rank and Prize Money using KNN 
 regression and using cross validation to choose K
 - Generated a predictions model with R2 = 90 for predicting the Prize Money given the 
 player’s Rank.
-## Smoker Proportions Analysis:
+#### Smoker Proportions Analysis:
 - Conducted a Hypothesis Test using p-values and confidence intervals in R to generate and 
 plot a bootstrap distribution for the difference between the proportions of high-school 
 smoking students in Canada
