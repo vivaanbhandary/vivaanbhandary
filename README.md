@@ -59,6 +59,7 @@ progress and class averages.
   Bachelor of Science: Computer Science Major, 2026
 
 ## Connect with Me
+- Email: vivaanbhandary@gmail.com
 - LinkedIn: https://www.linkedin.com/in/vivaan-bhandary-389726241/
 
 Let's connect and discuss how my skills can contribute to your team's success! 🌟
