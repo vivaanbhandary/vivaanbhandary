@@ -6,57 +6,54 @@
 I am a passionate and dedicated computer science student with a keen interest in software development and Game Dev. Currently pursuing Computer Science at UBC Vancouver, I am enthusiastic about applying my theoretical knowledge to real-world projects and automation.
 
 ## Skills
-- **Languages:** Java, TypeScript, C, C++, HTML, R, JavaScript, Python, SQL, PHP, Kotlin, React
-- **Technologies:** Adobe Photoshop, Premiere Pro, Git, Github
-- **Tools & Libraries:** Tidyverse, Tidymodels, GGPlot, Matplotlib, Pandas, NumPy, Altair
+- **Programming Languages:** Java, Python, JavaScript, TypeScript, C/C++, HTML, R, SQL, PHP, Kotlin 
+- **Frameworks & Libraries:** React, Node.js, scikit-learn, Pandas, NumPy, Matplotlib, Altair, Tidymodels
+- **Software & Tools:** Git, GitHub, Adobe Photoshop, Adobe Premiere Pro
+- **Data Analysis & Visualization:** Data Mining, Machine Learning, Data Visualization using libraries like GGPlot, Matplotlib, and Altair
+- **Relevant Coursework:** Machine Learning & Data Mining, Intermediate Algorithm Design and Analysis, Software Engineering, Algorithms and Data Structures, Software Construction, Introduction to Data Science
+
 
 ## Projects
+### SavourSafe – Food Recommender System (YouCode 2024 Hackathon Project)	Apr 2024 - Present
+-	Pioneered a hybrid Python and JavaScript application focusing on Machine Learning to predict user food preferences, using predictive analytics.
+-	Implemented Linear Regression to accurately forecast user preferences by minimizing the difference between actual and predicted ratings.
+-	Plan to integrate Principal Component Analysis (PCA) to increase efficiency and interpretability. Additionally, aiming to develop RESTful API endpoints for backend integration for multi-platform deployment.
+
+
 ### Campus Information Query Engine: Nov 2023
-- Led the successful development of a dynamic TypeScript project, employing an Agile 
-methodology with iterative sprints and weekly scrum ceremonies with team members.
-- Used libraries to read and parse JSON and HTML files for relevant campus information to craft 
-datasets from the user and perform queries on them.
-- Developed RESTful API endpoints for the web server and frontend, securing data integrity with 
-HTTPS requests.
-- Built a thorough testing suite, including black box, white box, mutation tests, and unit tests, 
-ensuring robust code quality.
+-	Led the successful development of a TypeScript project, employing Agile methodologies with iterative sprints and weekly scrum meetings with team members.
+-	Integrated libraries for parsing JSON and HTML files hosting campus information, to create datasets for complex query operations. 
+-	Developed RESTful API endpoints between the web server and frontend, prioritizing security with HTTPS encryption.
+-	Built a thorough testing suite, involving black box, white box, mutation, and unit tests, ensuring robust code quality.
+
 
 ### Data Analysis Projects: Mar 2022
-- For the following analyses, parsed information using web scraping to generate the data set and 
-then selecting the useful columns and filtering and cleaning them into the target and usable 
-data using the R library Tidyverse.
+- **Data Preparation:** Utilized web scraping techniques to extract datasets, employing the R-Tidyverse library for data selection, filtering, and cleaning to prepare analysis-ready datasets.
+  
 #### Tennis Rankings Analysis:
-- Used R to measure the relation between Tennis Player Rank and Prize Money using KNN 
-regression and using cross validation to choose K
-- Generated a predictions model with R2 = 90 for predicting the Prize Money given the 
-player’s Rank.
+-	Applied KNN regression in R to analyze the correlation between Tennis Player Rank and Prize Money, optimizing model parameters using cross-validation.
+-	Developed a predictions model with R2 = 0.9 to predict Prize Money given a player’s Rank.
+
 #### Smoker Proportions Analysis:
-- Conducted a Hypothesis Test using p-values and confidence intervals in R to generate and 
-plot a bootstrap distribution for the difference between the proportions of high-school 
-smoking students in Canada
+- Conducted a Hypothesis Test using p-values and confidence intervals in R to generate and plot a bootstrap distribution for the difference between the proportions of high-school smoking students in different provinces in Canada.
 
 ### Zone Chasing Game: Jan 2022
-- Created a single player game “Zone Chaser” in Java using Object Oriented Programming (OOP) 
-with a Graphical User Interface using the Java Swing library.
-- Implemented a saving and loading feature for the player using data persistence with JSON.
-- Built the game alongside a test suite for every method implemented in the project, minimizing 
-unforeseen bugs and glitches.
-- Made quick animations to convey game information such as level, points and player state.
-- Added a Console Log to record when and how an object’s state was changed to track down bugs
+-	Created a single player game “Zone Chaser” in Java using OOP and the Java Swing library for a robust GUI.
+-	Implemented game state saving and loading for the player using data persistence with JSON.
+-	Built a comprehensive test suite, ensuring high code quality and minimizing gameplay bugs.
+-	Made smooth animations to display game-info like level, points, and player state.
+-	Added a Console Log to monitor and record object state changes for streamlined bug tracking.
+
 
 ### Generative Math Quizzer: Jan 2021
-- Developed a program in Java that automatically generates and grades math questions of varying 
-types and difficulties for students to answer.
-- Designed a prototype following the client’s requirements with a program flowchart for the client 
-to give feedback on and approve before final version was designed. 
-- Stored answers and student data in a relational database management system that can be 
-accessed by teachers using MySQL. 
-- Created a password protected login system for the teachers to keep track of individual student 
-progress and class averages. 
+-	Crafted a Java application that automatically generates and evaluates math questions of various types for students to answer.
+-	Designed detailed prototypes based on client specifications using a program flowchart for an iterative feedback and approval loop. 
+-	Stored test and student data in a relational database management system (RDBMS) using MySQL that can be accessed by teachers from a password protected login system.
+
 
 ## Education
 - **University of British Columbia Vancouver**
-  Bachelor of Science: Computer Science Major, 2026
+  Bachelor of Science: Computer Science Major, 2026 (Year 4)
 
 ## Connect with Me
 - Email: vivaanbhandary@gmail.com
