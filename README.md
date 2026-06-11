@@ -1,6 +1,6 @@
 # Vivaan Bhandary
 
-🚀 Aspiring Software Engineer | University of British Columbia Student | Seeking Co-op Opportunities
+Aspiring Software Engineer | University of British Columbia Student | Seeking Co-op Opportunities
 
 ## About Me
 I am a passionate and dedicated computer science student with a keen interest in software development and Game Dev. Currently pursuing Computer Science at UBC Vancouver, I am enthusiastic about applying my theoretical knowledge to real-world projects and automation.
