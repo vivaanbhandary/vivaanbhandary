@@ -60,8 +60,10 @@ Sept 2025 – Apr 2026
 
 
 ## Education
-- **University of British Columbia Vancouver**
-  Bachelor of Science: Computer Science Major, 2026 (Year 4)
+- **University of British Columbia Vancouver** Sept 2021 - May 2026
+  
+  Bachelor of Science: Computer Science Major
+
   Graduated With Distinction, Dean's Honour List: 2022, 2023, 2024, Dean's Scholar 2026
 ## Connect with Me
 - Email: vivaanbhandary@gmail.com
