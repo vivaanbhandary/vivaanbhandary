@@ -1,24 +1,32 @@
 # Vivaan Bhandary
 
-Aspiring Software Engineer | University of British Columbia Student | Seeking Co-op Opportunities
+Aspiring Software Engineer | University of British Columbia Graduate | Seeking Full time Software and Game Dev Opportunities
 
 ## About Me
-I am a passionate and dedicated computer science student with a keen interest in software development and Game Dev. Currently pursuing Computer Science at UBC Vancouver, I am enthusiastic about applying my theoretical knowledge to real-world projects and automation.
+I am a Computer Science graduate with a keen interest in building software systems as well as fun and engaging gameplay experiences. I recently graduated with distinction from UBC Vancouver and am enthusiastic about applying my knowledge to real-world projects and teams! I enjoy working across the development stack, whether that involves creating scalable backend APIs, designing intuitive object-oriented gameplay loops, or automated test systems.
 
 ## Skills
-- **Programming Languages:** Java, Python, JavaScript, TypeScript, C/C++, HTML, R, SQL, PHP, Kotlin 
-- **Frameworks & Libraries:** React, Node.js, scikit-learn, Pandas, NumPy, Matplotlib, Altair, Tidymodels
-- **Software & Tools:** Git, GitHub, Adobe Photoshop, Adobe Premiere Pro
-- **Data Analysis & Visualization:** Data Mining, Machine Learning, Data Visualization using libraries like GGPlot, Matplotlib, and Altair
-- **Relevant Coursework:** Machine Learning & Data Mining, Intermediate Algorithm Design and Analysis, Software Engineering, Algorithms and Data Structures, Software Construction, Introduction to Data Science
+- **Programming Languages:** Java, Python, JavaScript, TypeScript, C/C++, HTML, R, SQL, Erlang, PHP, Kotlin, GLSL
+- **Frameworks & Libraries:** React, Node.js, scikit-learn, Pandas, NumPy, Matplotlib, three.js, EnTT, NVIDIA warp
+- **Software & Tools:** Git, GitHub, Unity, Godot, Adobe Premiere Pro, VS Code, Visual Studio, PyCharm
+- **Data Analysis & Visualization:** Data Mining, Machine Learning, Data Visualization
+- **Relevant Coursework:** Video Game Programming, Computer Graphics & Animation, Machine Learning & Data Mining, Parallel Computation, Computer Networking, Computer Hardware & Operating Systems, Software Engineering & Construction, Algorithms and Data Structures, Data Science
 
 
 ## Projects
-### SavourSafe – Food Recommender System (YouCode 2024 Hackathon Project)	Apr 2024 - Present
--	Pioneered a hybrid Python and JavaScript application focusing on Machine Learning to predict user food preferences, using predictive analytics.
--	Implemented Linear Regression to accurately forecast user preferences by minimizing the difference between actual and predicted ratings.
--	Plan to integrate Principal Component Analysis (PCA) to increase efficiency and interpretability. Additionally, aiming to develop RESTful API endpoints for backend integration for multi-platform deployment.
+### Reloaded Dice - Video Game and Engine | C++, Git, EnTT, Godot
+Jan 2026 – Apr 2026
+- Directed a 6-person Agile team through 2-week sprints, integrating playtest feedback to refine core gameplay loops
+- Architected a C++ game engine using the EnTT ECS framework for highly performant and scalable game logic
+- Optimized core engine processes with the team by implementing spatial hashing and collision layers for efficient physics calculations, and resolved a major rendering bottleneck to reduce GPU overhead
+- Designed and programmed a dynamic, synergistic upgrade system, managing complex entity interactions and state changes to scale gameplay mechanics
+- Composed and integrated a dynamic music and sound system for the game, increasing player feedback for important actions and telegraphing gameplay elements
 
+### Computer Graphics and Animation Projects | JavaScript, GLSL, Python
+Sept 2025 – Apr 2026
+- Developed an interactive 3D graphics engine utilizing WebGL and custom GLSL shaders to render real-time environments
+- Implemented multi-pass rendering for dynamic shadows and a multi-camera system to simulate movable, real-time portal illusions
+- Wrote a physics-based cloth simulation engine featuring interactive collision detection, particle external forces, and custom cloth-tearing logic
 
 ### Campus Information Query Engine: Nov 2023
 -	Led the successful development of a TypeScript project, employing Agile methodologies with iterative sprints and weekly scrum meetings with team members.
@@ -54,7 +62,7 @@ I am a passionate and dedicated computer science student with a keen interest in
 ## Education
 - **University of British Columbia Vancouver**
   Bachelor of Science: Computer Science Major, 2026 (Year 4)
-
+  Graduated With Distinction, Dean's Honour List: 2022, 2023, 2024, Dean's Scholar 2026
 ## Connect with Me
 - Email: vivaanbhandary@gmail.com
 - LinkedIn: https://www.linkedin.com/in/vivaan-bhandary-389726241/
